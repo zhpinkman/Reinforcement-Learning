@@ -1,0 +1,3 @@
+[submodule "armed-bandit"]
+	path = armed-bandit
+	url = git@github.com:zhpinkman/armed-bandit.git
