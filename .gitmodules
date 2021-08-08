@@ -1,3 +1,6 @@
 [submodule "armed-bandit"]
 	path = armed-bandit
 	url = git@github.com:zhpinkman/armed-bandit.git
+[submodule "jacks-car-rental"]
+	path = jacks-car-rental
+	url = git@github.com:zhpinkman/jacks-car-rental.git
